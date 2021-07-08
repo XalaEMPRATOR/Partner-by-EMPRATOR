@@ -57,7 +57,7 @@ if(message.channel.type === 'dm') {
 
 if (message.content.startsWith("https://discord.gg/")) {
     
-  message.author.send(`  https://discord.gg/kq4KWJnBaw`) ///Link Server Never ///@E M P R A T O R#2419 
+  message.author.send(`  https://discord.gg/kq4KWJnBaw`) ///Link Server Never ///E M P R A T O R#2419 
     
   client.channels.get("ID Channel").send(
 `> EMPRTOR Up | By: <@${message.author.id}> 
@@ -76,4 +76,4 @@ emprator.user.setGame(`Send Me Linke Your Server | EMPRATOR Up`)
 
 
 
-emprator.login("");///@E M P R A T O R#2419 ///Token
+emprator.login("");///E M P R A T O R#2419 ///Token
