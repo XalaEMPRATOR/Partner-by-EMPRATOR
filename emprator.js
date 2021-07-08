@@ -57,25 +57,23 @@ if(message.channel.type === 'dm') {
 
 if (message.content.startsWith("https://discord.gg/")) {
     
-  message.author.send(`  https://discord.gg/kq4KWJnBaw`) ///Link Server Never ///RaWeN
+  message.author.send(`  https://discord.gg/kq4KWJnBaw`) ///Link Server Never ///@E M P R A T O R#2419 
     
   client.channels.get("ID Channel").send(
-`> RaWeN Up | By: <@${message.author.id}> 
+`> EMPRTOR Up | By: <@${message.author.id}> 
 ${message.content}`)
 }
     }
         })
 
-
-
+///////////////@E M P R A T O R#2419
 
 emprator.on('ready', () => {
 console.log(`ON ${emprator.guilds.size} Servers`);
 console.log(`Logged in as ${emprator.user.tag}!`);
-emprator.user.setGame(`Send Me Linke Your Server | RaWeN Up`) 
+emprator.user.setGame(`Send Me Linke Your Server | EMPRATOR Up`) 
 });
 
 
 
-
-emprator.login("");///RaWeN ///Token
+emprator.login("");///@E M P R A T O R#2419 ///Token
