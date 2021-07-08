@@ -57,7 +57,7 @@ if(message.channel.type === 'dm') {
 
 if (message.content.startsWith("https://discord.gg/")) {
     
-  message.author.send(`  https://discord.gg/kq4KWJnBaw`) ///Link Server Never ///E M P R A T O R#2419 
+  message.author.send(`https://discord.gg/HmXnPzzSv9`) ///Link Server Never ///E M P R A T O R#2419 
     
   client.channels.get("ID Channel").send(
 `> EMPRTOR Up | By: <@${message.author.id}> 
